@@ -1,11 +1,2 @@
-
-# T-Shirt List
-
-## Items
-
- for GitHub
-
-2. GitHub 티셔츠
-
-
-1. 
+1. GitHub 티셔츠
+2. 파이썬 티셔츠
